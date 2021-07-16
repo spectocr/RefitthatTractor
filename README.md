@@ -2,6 +2,7 @@
 
 ## Purpose
 A website that offers SEO services. 
+  ![alt text](./ss.png)
 
 ## Built With
 * HTML
